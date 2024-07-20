@@ -56,9 +56,15 @@ class ProjectDetails {
         titleImage: "assets/images/ewc_icon.jpg",
         description: '''This app is a multilevel application that will look at taking church data, and provide utilities for church management''',
       images: [ 'assets/images/001.jpeg',
-        'assets/images/002.jpeg',
-        'assets/images/003.jpeg',
-        'assets/images/004.jpeg',]
+        'assets/images/img-22.jpg',
+        'assets/images/img-23.jpg',
+        'assets/images/img-24.jpg',
+        'assets/images/img-25.jpg',
+        'assets/images/img-26.jpg',
+        'assets/images/img-27.jpg',
+        'assets/images/img-28.jpg',
+        'assets/images/img-29.jpg',
+        ]
     ),
   ];
 
